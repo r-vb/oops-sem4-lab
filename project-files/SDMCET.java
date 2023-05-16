@@ -17,7 +17,7 @@ class Teacher{
 		Who.IA1=e.nextInt();
 		System.out.println("Enter the IA2: ");
 		Who.IA2=e.nextInt();
-		System.out.println("Enter the IAi3: ");
+		System.out.println("Enter the IA3: ");
 		Who.IA3=e.nextInt();
 	}
 }
